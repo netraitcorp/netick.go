@@ -13,3 +13,11 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# IDE
+.vscode
+.idea
+
+# Exclude directory
+logs
+pb/*.pb.go
